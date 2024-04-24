@@ -1,0 +1,25 @@
+h1 {    
+    color: beige;
+    text-align: center;
+    font-size:60px;
+    line-height: 4;
+}
+
+
+h2 {
+    color: orange;
+    font-size: 40px;  
+    inline-size: 2;  
+}
+
+.boxInicial {
+    background-color: black;  
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5%;
+    inline-size: 3;
+    line-height: 2;
+}
+
+
+

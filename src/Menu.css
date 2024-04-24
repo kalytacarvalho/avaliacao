@@ -1,0 +1,39 @@
+* {   
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;  
+    display: flex;
+    justify-content: space-between; 
+    background-color:orange;
+    padding: 10px;
+    margin: -5px;
+    
+}
+
+.menuItem {
+    color:bisque;
+    text-decoration: none;
+    font-size: 40px; 
+    font-weight: bold;
+    padding: 30px;
+    transition: color 0.5;
+}
+
+.title {
+    color:bisque;    
+    font-size: 40px;
+    font-weight: bold;
+}
+
+

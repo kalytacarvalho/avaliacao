@@ -1,0 +1,27 @@
+body {
+    background-image: url('assets/meteorito-se-aproxima-a-terra.jpg');
+    margin: 0;
+    display: flex;    
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: black;
+}
+
+.box {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    line-height: 3;
+    opacity : 0.8;
+    border-radius: 10%;
+}
+p{
+    color: aliceblue;
+    font-size: 30px
+}
+
+.perigoso{
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
